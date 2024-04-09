@@ -1,14 +1,14 @@
 # Rover Controller App
 A laptop app for controlling robotic rovers via WiFi
 
-The following commands are available as push buttons as well as keyboard hotkey:
+The following commands are available as push buttons as well as keyboard hotkeys:
 
-"Forward" - W
-"Backward" - S
-"TurnLeft" - Q
-"TurnRight" - E
-"RotateLeft" - A
-"RotateRight" - D
-"Release" - N/A
-"Claw-Open" - SPACE
-"Claw-Close" - SPACE
+"Forward" - W <br>
+"Backward" - S <br>
+"TurnLeft" - Q <br>
+"TurnRight" - E <br>
+"RotateLeft" - A <br>
+"RotateRight" - D <br>
+"Release" - N/A <br>
+"Claw-Open" - SPACE <br>
+"Claw-Close" - SPACE <br>
